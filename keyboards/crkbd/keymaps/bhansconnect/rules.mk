@@ -5,7 +5,7 @@ AUTO_SHIFT_ENABLE = yes
 COMBO_ENABLE = yes
 VPATH += keyboards/gboards
 
-OLED_DRIVER_ENABLE  = yes
+OLED_ENABLE  = yes
 RGBLIGHT_ENABLE = no
 
 RGB_MATRIX_ENABLE = no
