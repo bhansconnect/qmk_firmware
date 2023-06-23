@@ -27,8 +27,10 @@ enum {
     SYST,
 };
 
+#ifdef COMBO_ENABLE
 // Combo inclusion
 #include "g/keymap_combo.h"
+#endif
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   [COLE] = LAYOUT_split_3x6_3(
