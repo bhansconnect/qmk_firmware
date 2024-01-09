@@ -36,6 +36,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define AUTO_SHIFT_TIMEOUT 135
 #define NO_AUTO_SHIFT_SPECIAL
 #define NO_AUTO_SHIFT_NUMERIC
+#define AUTO_SHIFT_REPEAT
 
 #ifdef RGBLIGHT_ENABLE
     #undef RGBLED_NUM
