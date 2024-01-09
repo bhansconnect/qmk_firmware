@@ -30,8 +30,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define USE_SERIAL_PD2
 
-// #define TAPPING_FORCE_HOLD
-// #define TAPPING_TERM 135
+#define TAPPING_FORCE_HOLD
+#define TAPPING_TERM 135
 
 #define AUTO_SHIFT_TIMEOUT 135
 #define NO_AUTO_SHIFT_SPECIAL
