@@ -32,7 +32,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define FORCE_NKRO
 
-// #define TAP_CODE_DELAY 10
+#define TAP_CODE_DELAY 20
 
 #define TAPPING_FORCE_HOLD
 #define TAPPING_TERM 135
