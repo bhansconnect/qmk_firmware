@@ -1,6 +1,8 @@
 LTO_ENABLE = yes
 
-AUTO_SHIFT_ENABLE = yes
+NKRO_ENABLE = yes
+
+AUTO_SHIFT_ENABLE = no
 
 COMBO_ENABLE = no
 VPATH += keyboards/gboards
